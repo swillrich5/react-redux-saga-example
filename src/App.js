@@ -17,10 +17,10 @@ export default function App() {
   const count = useSelector((state) => state.counter.count);
 
   const voters = [
-    "Anthony Sistilli ",
-    "Bob Smith",
-    "Stephanie Foo",
-    "Kevin Ma"
+    "Scott Willrich ",
+    "Chico Willrich",
+    "Luke Skywalker",
+    "James T. Kirk"
   ];
   return (
     <div className="App">
